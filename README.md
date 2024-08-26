@@ -195,7 +195,7 @@ Python 3.10.13
 ```
 
 > [!CAUTION]
-> pyenv virtualenv 명령 실행 이후 해당 디렉토리에 .python-version 이 생성되므로 SCM 에 포함되지 않도록 주의한다.
+> pyenv virtualenv 명령 실행 이후 해당 디렉토리에 .python-version 이 생성되므로 git등에 포함되지 않도록 주의한다.
 
 # 6. 소스코드 클론
 
